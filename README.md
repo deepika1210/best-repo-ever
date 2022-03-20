@@ -1,2 +1,6 @@
 # best-repo-ever
-Hi All
+<<<<<<< HEAD
+
+=======
+Hi
+>>>>>>> origin/main
